@@ -9,7 +9,7 @@ In this lesson, we'll unpack what **Babel** brings to the table when developing 
 1. Learn what Babel is
 2. Learn how Babel integrates with React
 3. Frame Babel's relative importance at this stage in learning React
-
+ 
 # Babel
 
 ![Tower of Babel](http://www.ancient-origins.net/sites/default/files/field/image/tower-of-babel-2.jpg)
